@@ -37,7 +37,7 @@ Here are a few things I've built or worked on:
 
 - **LinkedIn:** [linkedin.com/in/pryxintel](https://linkedin.com/in/Priyanshu0503)
 - **GitHub:** [github.com/PryxIntel](https://github.com/PryxIntel)
-- **Email:** pryxintel@gmail.com
+- **Email:** pryxintel@yahoo.com
 
 ---
 
