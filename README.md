@@ -1,7 +1,5 @@
 # Hi there, I'm Priyanshu! 👋
 
-**Also known as: `Mr.India`**
-
 I'm a passionate and curious Computer Science and Engineering student at MMMUT, Gorakhpur, with a drive to explore the intersections of **Machine Learning**, **Data Science**, **Cybersecurity**, and **Software Development**.
 
 ---
@@ -27,8 +25,7 @@ Here are a few things I've built or worked on:
 
 ## 🌱 Currently Learning
 
-- Rust (async, Arti for Tor Project)
-- Advanced Penetration Testing & ICS Security
+- Penetration Testing & ICS Security
 - Deep Learning with Python
 
 ---
